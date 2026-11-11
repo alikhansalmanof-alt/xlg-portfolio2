@@ -1,0 +1,6 @@
+{
+  "name": "XLG — Премиальная веб-разработка для бизнеса",
+  "description": "Современная веб-разработка для бизнеса в Алматы и по всему миру. Создание сайтов, лендингов и веб-проектов, превращающих интерес в заявки.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
